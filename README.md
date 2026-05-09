@@ -192,6 +192,13 @@ And this is only the beginning.
 <p align="center"><i>Employee inventory view, menu button with "Cart" button, and Cart view/Checkout System</i></p>
 <br>
 
+### Manager Tool Menu
+<p align="center">
+  <img src="screenshots/ManagerMenuFrag.png" width="250" />
+</p>
+<p align="center"><i>Managers tool menu with multiple features such as profile management, item creation, existing items, Consumption Analytics, and Changing to Employee role.</i></p>
+<br>
+
 ### Manager Feature - New Item
 <p align="center">
   <img src="screenshots/ManagerNewItemFrag.png" width="250" />
@@ -202,7 +209,7 @@ And this is only the beginning.
 ### Manager Feature - Existing Items - Core Features
 <p align="center">
   <img src="screenshots/ManagerExistingItems.png" width="250" />
-  <img src="screenshots/EditItemDialogBox.png" width="250" />
+  <img src="screenshots/EditItemDialogBox'.png" width="250" />
   <img src="screenshots/DeleteExistingItemDialogBox.png" width="250" />
 </p>
 <p align="center"><i>New item creation, existing items, and profile management</i></p>
