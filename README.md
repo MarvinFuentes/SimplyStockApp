@@ -174,6 +174,15 @@ And this is only the beginning.
 <p align="center"><i>Login, account creation, and password reset workflow</i></p>
 <br>
 
+### Profile Management
+<p align="center">
+  <img src="screenshots/ProfileManagementFrag.png" width="250" />
+  <img src="screenshots/ProfileManagementSelectedProfile.png" width="250" />
+  <img src="screenshots/ProfileManagementUpdated.png" width="250" />
+</p>
+<p align="center"><i>Login, account creation, and password reset workflow</i></p>
+<br>
+
 ### Inventory System
 <p align="center">
   <img src="screenshots/EmployeeInventory.png" width="250" />
@@ -183,10 +192,17 @@ And this is only the beginning.
 <p align="center"><i>Employee inventory view, menu button with "Cart" button, and Cart view/Checkout System</i></p>
 <br>
 
+### Manager Feature - New Item
+<p align="center">
+  <img src="screenshots/ManagerNewItemFrag.png" width="250" />
+</p>
+<p align="center"><i>New item creation</i></p>
+<br>
+
 ### Manager Feature - Existing Items - Core Features
 <p align="center">
-  <img src="screenshots/ManagerExisting.png" width="250" />
-  <img src="screenshots/EditDialogBox.png" width="250" />
+  <img src="screenshots/ManagerExistingItems.png" width="250" />
+  <img src="screenshots/EditItemDialogBox.png" width="250" />
   <img src="screenshots/DeleteExistingItemDialogBox.png" width="250" />
 </p>
 <p align="center"><i>New item creation, existing items, and profile management</i></p>
