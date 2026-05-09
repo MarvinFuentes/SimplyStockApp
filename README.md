@@ -177,8 +177,8 @@ And this is only the beginning.
 ### Inventory System
 <p align="center">
   <img src="screenshots/EmployeeInventory.png" width="250" />
-  <img src="screenshots/CartActionBar.png.png" width="250" />
-  <img src="screenshots/CartFragEmployee.png.png.png" width="250" />
+  <img src="screenshots/CartActionBar.png" width="250" />
+  <img src="screenshots/CartFragEmployee.png" width="250" />
 </p>
 <p align="center"><i>Employee inventory view, menu button with "Cart" button, and Cart view/Checkout System</i></p>
 <br>
