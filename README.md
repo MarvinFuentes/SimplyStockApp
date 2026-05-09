@@ -194,7 +194,8 @@ And this is only the beginning.
 
 ### Analytics
 <p align="center">
-  <img src="screenshots/ConsumptionAnalyticsChartFrag-Manager.png" width="300" />
+  <img src="screenshots/CompAnalyticsWeeklySelc.png" width="300" />
+  <img src="screenshots/CompSelcGraphForWeekOfMArvin.png" width="300" />
 </p>
 <p align="center"><i>Bar chart using AnyChart for consumption analytic</i></p>
 <br>
