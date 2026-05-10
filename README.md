@@ -1,6 +1,6 @@
 # 📦 Simply Stock – Mobile Inventory Management App (Ongoing Development) 
 
-The goal is to create a simple and easy-to-use mobile app that is free and scalable. This app would primarily help small businesses with helpful tools like item creation, live inventory, a checkout system, user authentication, role-based access, consumption analytics, and more.
+The goal is to create a simple and easy-to-use mobile app that is free and scalable. This app would primarily help small businesses with tools like item creation, live inventory tracking, a checkout system, user authentication, role-based access, consumption analytics, and more.
 
 ---
 
@@ -64,7 +64,6 @@ This makes the system scalable and usable across different environments.
 ## 🔒 Additional Features
 
 - User authentication system  
-- Email verification  
 - Password requirements for security  
 - Logout functionality with activity reset  
 - Manager-only access to sensitive features  
@@ -76,7 +75,8 @@ This makes the system scalable and usable across different environments.
 
 Managers can:
 - View users who have checked out items  
-- Select specific dates  
+- Daily, weekly, and monthly analytics filtering
+- Automatic date formatting based on the selected filter
 - See a visual breakdown of item usage  
 
 This feature uses a bar chart to display:
@@ -102,10 +102,12 @@ This was a great introduction to working with external libraries and understandi
 
 Planned features include:
 - Camera integration for taking item photos directly  
-- Low stock alerts  
-- Direct URL links for restocking items  
+- Low stock push notifications
+- Cloud database support
+- Barcode or QR code integration
 - Improved UI/UX design and animations  
-- More advanced analytics with filtering (daily, weekly, monthly) to track item consumption per employee  
+- Expanded admin controls
+- Cross-platform/web support
 
 ---
 
@@ -116,10 +118,16 @@ The long-term goal is to keep this system:
 - **scalable**
 - **free for small businesses**
 
-I plan to:
-- create a Google Developer account  
-- prepare the app for release  
-- publish it on the Google Play Store  
+Simply Stock is currently in the Google Play Internal Testing phase and will continue receiving updates and improvements over time.
+
+The GitHub repository will also continue to be updated with:
+- new features
+- screenshots
+- bug fixes
+- documentation
+- Google Play deployment progress
+
+Future goals include preparing the application for a full Google Play Store release.
 
 ---
 
@@ -128,7 +136,10 @@ I plan to:
 - Java  
 - Android Studio  
 - SQLite  
-- XML  
+- XML
+- Google Play Console
+- GitHub
+- AnyChart
 
 ---
 
@@ -152,7 +163,7 @@ Even though I have struggled with time management in the past, FDD helped me:
 
 This project represents my first entry-level full stack mobile application.
 
-From database design to UI, to implementing real-world features like carts, checkouts, and analytics — this was a major step forward in my development journey.
+From database design to UI, to implementing real-world features like carts, checkouts, role-based systems, and analytics — this was a major step forward in my development journey.
 
 I’m proud of how far I’ve come with:
 - problem solving  
@@ -180,7 +191,7 @@ And this is only the beginning.
   <img src="screenshots/ProfileManagementSelectedProfile.png" width="250" />
   <img src="screenshots/ProfileManagementUpdated.png" width="250" />
 </p>
-<p align="center"><i>Login, account creation, and password reset workflow</i></p>
+<p align="center"><i>List of profile accounts, selection grey background, deletion of account and automatic update.</i></p>
 <br>
 
 ### Inventory System
@@ -189,7 +200,7 @@ And this is only the beginning.
   <img src="screenshots/CartActionBar.png" width="250" />
   <img src="screenshots/CartFragEmployee.png" width="250" />
 </p>
-<p align="center"><i>Employee inventory view, menu button with "Cart" button, and Cart view/Checkout System</i></p>
+<p align="center"><i>Employee inventory view alphabetically ordered by category and low stock indicator, menu button with "Cart" button, and cart view / checkout System</i></p>
 <br>
 
 ### Manager Tool Menu
@@ -203,7 +214,7 @@ And this is only the beginning.
 <p align="center">
   <img src="screenshots/ManagerNewItemFrag.png" width="250" />
 </p>
-<p align="center"><i>New item creation</i></p>
+<p align="center"><i>New item with an individual los stock indicator instead of a universal low stock amount all items.</i></p>
 <br>
 
 ### Manager Feature - Existing Items - Core Features
@@ -212,16 +223,16 @@ And this is only the beginning.
   <img src="screenshots/EditItemDialogBox'.png" width="250" />
   <img src="screenshots/DeleteExistingItemDialogBox.png" width="250" />
 </p>
-<p align="center"><i>New item creation, existing items, and profile management</i></p>
+<p align="center"><i>List of existing items from inventory, Alert Dialog when editing an item with pre-filled data, Alert Dialog users receive when deleting an item.</i></p>
 <br>
 
-### Analytics
+### Consumption Analytics
 <p align="center">
   <img src="screenshots/CompAnalyticsWeeklySelc.png" width="300" />
   <img src="screenshots/CompSelcWeekly.png" width="300" />
   <img src="screenshots/CompSelcGraphForWeekOfMArvin.png" width="300" />
 </p>
-<p align="center"><i>Bar chart using AnyChart for consumption analytic</i></p>
+<p align="center"><i>Bar chart using AnyChart for consumption analytics</i></p>
 <br>
 
 ### Business Selection/Business Creation
@@ -229,5 +240,5 @@ And this is only the beginning.
   <img src="screenshots/ExistingBusinessFrag.png" width="300" />
   <img src="screenshots/NewBusinessFragment.png" width="300" />
 </p>
-<p align="center"><i>Scroll view displaying all available businesses, and Sign up process for new businesses</i></p>
+<p align="center"><i>Business selection and business creation process for new organizations.</i></p>
 <br>
