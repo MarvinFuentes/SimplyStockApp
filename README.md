@@ -232,9 +232,8 @@ And this is only the beginning.
   <img src="screenshots/CompSelcWeekly.png" width="300" />
   <img src="screenshots/CompSelcGraphForWeekOfMArvin.png" width="300" />
 </p>
-<p align="center"><i>Radio button selection allowing users to choose between daily, weekly, or monthly analytics (default is daily). Once an employee is selected, the user is taken 
-  to the available time periods based on the selected filter (weekly in this example). The timeframe is automatically formatted, and the user can then view analytics data showing 
-  the inventory checked out by that employee.</i></p>
+<p align="center"><i>Radio button selection allowing users to choose between daily, weekly, or monthly analytics (default is daily). Once an employee is selected, the user is 
+  taken to the available time periods based on the selected filter. The timeframe is automatically formatted, allowing managers to view inventory checkout analytics for that employee.</i></p>
 <br>
 
 ### Business Selection/Business Creation
