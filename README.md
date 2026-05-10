@@ -182,7 +182,7 @@ And this is only the beginning.
   <img src="screenshots/SignUpActivity.png" width="250" />
   <img src="screenshots/ForgotPassActivity.png" width="250" />
 </p>
-<p align="center"><i>Login, account creation, and password reset workflow</i></p>
+<p align="center"><i>Login, account creation, and password reset workflow.</i></p>
 <br>
 
 ### Profile Management
@@ -200,7 +200,7 @@ And this is only the beginning.
   <img src="screenshots/CartActionBar.png" width="250" />
   <img src="screenshots/CartFragEmployee.png" width="250" />
 </p>
-<p align="center"><i>Employee inventory view alphabetically ordered by category and low stock indicator, menu button with "Cart" button, and cart view / checkout System</i></p>
+<p align="center"><i>Employee inventory view alphabetically ordered by category and low stock indicator, menu button with "Cart" button, and cart view / checkout System.</i></p>
 <br>
 
 ### Manager Tool Menu
@@ -232,7 +232,9 @@ And this is only the beginning.
   <img src="screenshots/CompSelcWeekly.png" width="300" />
   <img src="screenshots/CompSelcGraphForWeekOfMArvin.png" width="300" />
 </p>
-<p align="center"><i>Bar chart using AnyChart for consumption analytics</i></p>
+<p align="center"><i>Radio button selection allowing users to choose between daily, weekly, or monthly analytics (default is daily). Once an employee is selected, the user is taken 
+  to the available time periods based on the selected filter (weekly in this example). The timeframe is automatically formatted, and the user can then view analytics data showing 
+  the inventory checked out by that employee.</i></p>
 <br>
 
 ### Business Selection/Business Creation
